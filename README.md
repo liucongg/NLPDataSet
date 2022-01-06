@@ -1,35 +1,5 @@
 # NLPDataSet
-<br>大家好，我是刘聪NLP。
-<br>本项目为本人收集并整理的一些数据集，目前包括中文摘要数据集、中文片段抽取式阅读理解数据集（QA）和中文文本相似度数据集。
-<br>希望大家可以多多转发、多多start。
-
-## UpDate 01.06.2022
-* 从网上收集数据，将DIAC2019、CCKS2018_Task3、LCQMC、AFQMC、GAIIC2021_Task3、THS2021、CHIP2019、SOHU_2021、COVID19、PAWSX、XF2021、Chinese-MNLI、Chinese-SNLI、Chinese-STS-B、OCNLI、PKU Paraphrase Bank等16个数据集进行整理清洗，构建一个较完善的中文片段抽取式阅读理解数据集。
-* 数据集清洗主要包括：针对4个NLI数据集进行标签转换，STS-B数据集进行分数过滤，PKU复述数据集仅生成正标签。
-* 处理后数据集详细信息，见[数据集描述]()
-
-| 数据   | 原始数据/项目地址   |  原始数据描述 |
-| ------  | ------ | ------  |
-| DIAC2019 | [地址](https://www.biendata.xyz/competition/2019diac/)  |  基于Adversarial Attack的问题等价性判别比赛数据集  |
-| CCKS2018_Task3 | [地址](https://www.biendata.xyz/competition/CCKS2018_3/)  |  CCKS 2018 微众银行智能客服问句匹配大赛  |
-| LCQMC | [地址](https://aclanthology.org/C18-1166.pdf)  |  哈工大发表的一个中文问答匹配数据集  |
-| AFQMC | [地址](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106411)  |  蚂蚁金融语义相似度数据集  |
-| GAIIC2021_Task3 | [地址](https://tianchi.aliyun.com/competition/entrance/531851/information)  |  小布助手对话短文本语义匹配比赛数据集  |
-| THS2021 | [地址](http://contest.aicubes.cn/#/detail?topicId=23)  |  同花顺2021人工智能大赛-跨领域迁移的文本语义匹配数据集  |
-| CHIP2019 | [地址](https://www.biendata.xyz/competition/chip2019/)  |  平安医疗科技疾病问答迁移学习比赛数据集  |
-| SOHU_2021 | [地址](https://www.biendata.xyz/competition/sohu_2021/)  |  2021搜狐校园文本匹配算法大赛数据集  |
-| COVID19 | [地址](https://tianchi.aliyun.com/competition/entrance/231776/introduction)  |  “公益AI之星”挑战赛-新冠疫情相似句对判定大赛数据集  |
-| PAWSX | [地址](https://github.com/google-research-datasets/paws)  |  多语言释义识别对抗性数据集  |
-| XF2021 | [地址](https://challenge.xfyun.cn/topic/info?type=chinese-question-similarity)  |  讯飞赛题—中文问题相似度挑战赛数据集  |
-| Chinese-MNLI | [地址](https://github.com/pluto-junzeng/CNSD)  |  中文MNLI数据集  |
-| Chinese-SNLI | [地址](https://github.com/pluto-junzeng/CNSD)  |  中文SNLI数据集  |
-| Chinese-STS-B | [地址](https://github.com/pluto-junzeng/CNSD)  |  中文SNLI数据集  |
-| OCNLI | [地址](https://github.com/CLUEbenchmark/OCNLI)  |  原生中文自然语言推理数据集，是第一个非翻译的、使用原生汉语的大型中文自然语言推理数据集。  |
-| PKU | [地址](https://github.com/pkucoli/PKU-Paraphrase-Bank)  |  句级中文文本复述语料库  |
-
-清洗及格式转换后的数据，下载链接如下：[百度云](https://pan.baidu.com/s/1V-WHrZoDcSw1QEA9NDg9UQ)
-<br>提取码：rt6f
-
+记录本人整理的一些数据集
 
 ## UpDate 08.03.2021
 * 从网上收集数据，将DRCD、cmrc2018、chinese-squad、中医数据集、法研杯2019、莱斯杯机器阅读理解、疫情QA、WebQA、Dureader等9个数据集进行整理清洗，构建一个较完善的中文片段抽取式阅读理解数据集。
@@ -72,6 +42,3 @@
 | news2016zh新闻数据 | [地址](https://github.com/brightmart/nlp_chinese_corpus)  | [百度云盘](https://pan.baidu.com/s/1S3YhetbEZuSfYbfSLeRfSg) 提取码： qsj1 |  
 
 数据集集合：[百度云盘](https://pan.baidu.com/s/1ibPTRTgXn8FfVf6DgVFWfA) 提取码： 7am8 
-
-## 声明
-本项目中整理的所有数据集，仅能用于学术研究，请勿用于商业。
