@@ -1,7 +1,9 @@
 # NLPDataSet
-<br>大家好，我是刘聪NLP。
-<br>本项目为本人收集并整理的一些数据集，目前包括中文摘要数据集、中文片段抽取式阅读理解数据集（QA）和中文文本相似度数据集。
-<br>希望大家可以多多转发、多多start。
+大家好，我是刘聪NLP。
+
+本项目为本人收集并整理的一些数据集，目前包括中文摘要数据集、中文片段抽取式阅读理解数据集（QA）和中文文本相似度数据集。
+
+希望大家可以多多转发、多多start。
 
 ## UpDate 01.06.2022
 * 从网上收集数据，将DIAC2019、CCKS2018_Task3、LCQMC、AFQMC、GAIIC2021_Task3、THS2021、CHIP2019、SOHU_2021、COVID19、PAWSX、XF2021、Chinese-MNLI、Chinese-SNLI、Chinese-STS-B、OCNLI、PKU Paraphrase Bank等16个数据集进行整理清洗，构建一个较完善的中文文本匹配数据集。
