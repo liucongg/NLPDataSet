@@ -4,9 +4,9 @@
 <br>希望大家可以多多转发、多多start。
 
 ## UpDate 01.06.2022
-* 从网上收集数据，将DIAC2019、CCKS2018_Task3、LCQMC、AFQMC、GAIIC2021_Task3、THS2021、CHIP2019、SOHU_2021、COVID19、PAWSX、XF2021、Chinese-MNLI、Chinese-SNLI、Chinese-STS-B、OCNLI、PKU Paraphrase Bank等16个数据集进行整理清洗，构建一个较完善的中文片段抽取式阅读理解数据集。
+* 从网上收集数据，将DIAC2019、CCKS2018_Task3、LCQMC、AFQMC、GAIIC2021_Task3、THS2021、CHIP2019、SOHU_2021、COVID19、PAWSX、XF2021、Chinese-MNLI、Chinese-SNLI、Chinese-STS-B、OCNLI、PKU Paraphrase Bank等16个数据集进行整理清洗，构建一个较完善的中文文本匹配数据集。
 * 数据集清洗主要包括：针对4个NLI数据集进行标签转换，STS-B数据集进行分数过滤，PKU复述数据集仅生成正标签。
-* 处理后数据集详细信息，见[数据集描述]()
+* 处理后数据集详细信息，见[数据集描述](https://zhuanlan.zhihu.com/p/454173790)
 
 | 数据   | 原始数据/项目地址   |  原始数据描述 |
 | ------  | ------ | ------  |
