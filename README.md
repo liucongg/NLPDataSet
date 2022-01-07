@@ -8,7 +8,8 @@
 ## UpDate 01.06.2022
 * 从网上收集数据，将DIAC2019、CCKS2018_Task3、LCQMC、AFQMC、GAIIC2021_Task3、THS2021、CHIP2019、SOHU_2021、COVID19、PAWSX、XF2021、Chinese-MNLI、Chinese-SNLI、Chinese-STS-B、OCNLI、PKU Paraphrase Bank等16个数据集进行整理清洗，构建一个较完善的中文文本匹配数据集。
 * 数据集清洗主要包括：针对4个NLI数据集进行标签转换，STS-B数据集进行分数过滤，PKU复述数据集仅生成正标签。
-* 处理后数据集详细信息，见[数据集描述](https://zhuanlan.zhihu.com/p/454173790)
+* 处理后数据集详细信息，见[数据集描述](https://zhuanlan.zhihu.com/p/454173790)。
+* 增加CINLID词语级匹配数据集。
 
 | 数据   | 原始数据/项目地址   |  原始数据描述 |
 | ------  | ------ | ------  |
@@ -28,6 +29,7 @@
 | Chinese-STS-B | [地址](https://github.com/pluto-junzeng/CNSD)  |  中文SNLI数据集  |
 | OCNLI | [地址](https://github.com/CLUEbenchmark/OCNLI)  |  原生中文自然语言推理数据集，是第一个非翻译的、使用原生汉语的大型中文自然语言推理数据集。  |
 | PKU | [地址](https://github.com/pkucoli/PKU-Paraphrase-Bank)  |  句级中文文本复述语料库  |
+| CINLID | [地址](https://mp.weixin.qq.com/s/oCwwkOtamf1rmIch7SjJug)  |  中文成语语义推理数据集  |
 
 清洗及格式转换后的数据，下载链接如下：[百度云](https://pan.baidu.com/s/1V-WHrZoDcSw1QEA9NDg9UQ)
 <br>提取码：rt6f
