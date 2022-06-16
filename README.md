@@ -36,7 +36,7 @@
 | FNED数据集 | [地址](https://www.datafountain.cn/competitions/561/datasets) |  高鲁棒性要求下的领域事件检测数据集  |
 
 清洗及格式转换后的数据，下载链接如下：[百度云](https://pan.baidu.com/s/19u7koJdlZiox-0fGQoZ2cA)
-<br>提取码：cfv8
+<br>提取码：
 
 ## UpDate 01.06.2022
 * 从网上收集数据，将DIAC2019、CCKS2018_Task3、LCQMC、AFQMC、GAIIC2021_Task3、THS2021、CHIP2019、SOHU_2021、COVID19、PAWSX、XF2021、Chinese-MNLI、Chinese-SNLI、Chinese-STS-B、OCNLI、PKU Paraphrase Bank等16个数据集进行整理清洗，构建一个较完善的中文文本匹配数据集。
