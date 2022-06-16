@@ -6,7 +6,7 @@
 希望大家可以多多转发、多多start。
 
 ## UpDate 06.16.2022
-* 从网上收集数据，将CMeEE数据集、IMCS21_task1数据集、CCKS2017_task2数据集、CCKS2018_task1数据集、CCKS2019_task1数据集、CLUENER2020数据集、MSRA数据集、NLPCC2018_task4数据集、CCFBDCI数据集、MMC数据集、WanChuang数据集、PeopleDairy1998数据集、PeopleDairy2004数据集、GAIIC2022_task2数据集、WeiBo数据集、ECommerce数据集、FinanceSina数据集、BoSon数据集、Resume数据集、Bank数据集和FNED数据集等21个数据集进行整理清洗，构建一个较完善的中文NER数据集。
+* 从网上收集数据，将CMeEE数据集、IMCS21_task1数据集、CCKS2017_task2数据集、CCKS2018_task1数据集、CCKS2019_task1数据集、CLUENER2020数据集、MSRA数据集、NLPCC2018_task4数据集、CCFBDCI数据集、MMC数据集、WanChuang数据集、PeopleDairy1998数据集、PeopleDairy2004数据集、GAIIC2022_task2数据集、WeiBo数据集、ECommerce数据集、FinanceSina数据集、BoSon数据集、Resume数据集、Bank数据集、FNED数据集和DLNER数据集等22个数据集进行整理清洗，构建一个较完善的中文NER数据集。
 * 数据集清洗时，仅进行了简单地规则清洗，并将格式进行了统一化，标签为“BIO”。
 * 处理后数据集详细信息，见[数据集描述](https://zhuanlan.zhihu.com/p/529541521)。
 * 数据集由[NJUST-TB](https://github.com/Swag-tb)一起整理。
@@ -34,9 +34,10 @@
 | Resume数据集 | [地址](https://github.com/jiesutd/LatticeLSTM/tree/master/ResumeNER) |  中国股市上市公司高管的简历  |
 | Bank数据集 | [地址](https://www.heywhale.com/mw/dataset/617969ec768f3b0017862990/file) |  银行借贷数据数据集  |
 | FNED数据集 | [地址](https://www.datafountain.cn/competitions/561/datasets) |  高鲁棒性要求下的领域事件检测数据集  |
+| DLNER数据集 | [地址](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset) |  语篇级命名实体识别数据集  |
 
-清洗及格式转换后的数据，下载链接如下：[百度云](https://pan.baidu.com/s/19u7koJdlZiox-0fGQoZ2cA)
-<br>提取码：
+清洗及格式转换后的数据，下载链接如下：[百度云](https://pan.baidu.com/s/1VvbvWPv3eM4MXsv_nlDSSA)
+<br>提取码：4sea
 
 ## UpDate 01.06.2022
 * 从网上收集数据，将DIAC2019、CCKS2018_Task3、LCQMC、AFQMC、GAIIC2021_Task3、THS2021、CHIP2019、SOHU_2021、COVID19、PAWSX、XF2021、Chinese-MNLI、Chinese-SNLI、Chinese-STS-B、OCNLI、PKU Paraphrase Bank等16个数据集进行整理清洗，构建一个较完善的中文文本匹配数据集。
