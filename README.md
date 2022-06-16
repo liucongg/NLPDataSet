@@ -8,7 +8,7 @@
 ## UpDate 06.16.2022
 * 从网上收集数据，将CMeEE数据集、IMCS21_task1数据集、CCKS2017_task2数据集、CCKS2018_task1数据集、CCKS2019_task1数据集、CLUENER2020数据集、MSRA数据集、NLPCC2018_task4数据集、CCFBDCI数据集、MMC数据集、WanChuang数据集、PeopleDairy1998数据集、PeopleDairy2004数据集、GAIIC2022_task2数据集、WeiBo数据集、ECommerce数据集、FinanceSina数据集、BoSon数据集、Resume数据集、Bank数据集和FNED数据集等21个数据集进行整理清洗，构建一个较完善的中文NER数据集。
 * 数据集清洗时，仅进行了简单地规则清洗，并将格式进行了统一化，标签为“BIO”。
-* 处理后数据集详细信息，见[数据集描述]()。
+* 处理后数据集详细信息，见[数据集描述](https://zhuanlan.zhihu.com/p/529541521)。
 * 数据集由[NJUST-TB](https://github.com/Swag-tb)一起整理。
 
 | 数据   | 原始数据/项目地址   |  原始数据描述 |
