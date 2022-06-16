@@ -24,8 +24,8 @@
 | CCFBDCI数据集 | [地址](https://www.datafountain.cn/competitions/510) |  中文命名实体识别算法鲁棒性评测数据集  |
 | MMC数据集 | [地址](https://tianchi.aliyun.com/competition/entrance/231687/information) |  瑞金医院MMC人工智能辅助构建知识图谱大赛数据集  |
 | WanChuang数据集 | [地址](https://tianchi.aliyun.com/competition/entrance/531827/introduction) |  "万创杯”中医药天池大数据竞赛—智慧中医药应用创新挑战赛数据集  |
-| PeopleDairy1998数据集 | [地址]() |  数据集  |
-| PeopleDairy2004数据集 | [地址]() |  数据集  |
+| PeopleDairy1998数据集 | [地址]() |  人民日报1998数据集  |
+| PeopleDairy2004数据集 | [地址]() |  人民日报2004数据集  |
 | GAIIC2022_task2数据集 | [地址](https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content/2) |  2022全球人工智能技术创新大赛-商品标题实体识别数据集  |
 | WeiBo数据集 | [地址](https://github.com/hltcoe/golden-horse) |  社交媒体中文命名实体识别数据集  |
 | ECommerce数据集 | [地址](https://github.com/allanj/ner_incomplete_annotation) |  面向电商的命名实体识别数据集  |
