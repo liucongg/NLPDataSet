@@ -1,9 +1,42 @@
 # NLPDataSet
 大家好，我是刘聪NLP。
 
-本项目为本人收集并整理的一些数据集，目前包括中文摘要数据集、中文片段抽取式阅读理解数据集（QA）和中文文本相似度数据集。
+本项目为本人收集并整理的一些数据集，目前包括中文摘要数据集、中文片段抽取式阅读理解数据集（QA）、中文文本相似度数据集和中文NER数据集。
 
 希望大家可以多多转发、多多start。
+
+## UpDate 06.16.2022
+* 从网上收集数据，将CMeEE数据集、IMCS21_task1数据集、CCKS2017_task2数据集、CCKS2018_task1数据集、CCKS2019_task1数据集、CLUENER2020数据集、MSRA数据集、NLPCC2018_task4数据集、CCFBDCI数据集、MMC数据集、WanChuang数据集、PeopleDairy1998数据集、PeopleDairy2004数据集、GAIIC2022_task2数据集、WeiBo数据集、ECommerce数据集、FinanceSina数据集、BoSon数据集、Resume数据集、Bank数据集和FNED数据集等21个数据集进行整理清洗，构建一个较完善的中文NER数据集。
+* 数据集清洗时，仅进行了简单地规则清洗，并将格式进行了统一化，标签为“BIO”。
+* 处理后数据集详细信息，见[数据集描述]()。
+* 数据集由[NJUST-TB](https://github.com/Swag-tb)一起整理。
+
+| 数据   | 原始数据/项目地址   |  原始数据描述 |
+| ------  | ------ | ------  |
+| CMeEE数据集 | [地址](http://www.cips-chip.org.cn/2021/CBLUE) |  中文医疗信息处理挑战榜CBLUE中医学实体识别数据集 |
+| IMCS21_task1数据集 | [地址](http://www.fudan-disc.com/sharedtask/imcs21/index.html?spm=5176.12282016.0.0.140e6d92ypyW1r) |  CCL2021第一届智能对话诊疗评测比赛命名实体识别数据集 |
+| CCKS2017_task2数据集 | [地址](https://www.biendata.xyz/competition/CCKS2017_2/) |  CCKS2017面向电子病历的命名实体识别数据集  |
+| CCKS2018_task1数据集 | [地址](https://www.biendata.xyz/competition/CCKS2018_1/) |  CCKS2018面向中文电子病历的命名实体识别数据集  |
+| CCKS2019_task1数据集 | [地址](http://openkg.cn/dataset/yidu-s4k) |  CCKS2019面向中文电子病历的命名实体识别数据集  |
+| CLUENER数据集 | [地址](https://github.com/CLUEbenchmark/CLUENER2020) |  CLUENER2020数据集  |
+| MSRA数据集 | [地址](https://www.msra.cn/) |  MSRA微软亚洲研究院开源命名实体识别数据集  |
+| NLPCC2018_task4数据集 | [地址](http://tcci.ccf.org.cn/conference/2018/taskdata.php) |  任务型对话系统数据数据集  |
+| CCFBDCI数据集 | [地址](https://www.datafountain.cn/competitions/510) |  中文命名实体识别算法鲁棒性评测数据集  |
+| MMC数据集 | [地址](https://tianchi.aliyun.com/competition/entrance/231687/information) |  瑞金医院MMC人工智能辅助构建知识图谱大赛数据集  |
+| WanChuang数据集 | [地址](https://tianchi.aliyun.com/competition/entrance/531827/introduction) |  "万创杯”中医药天池大数据竞赛—智慧中医药应用创新挑战赛数据集  |
+| PeopleDairy1998数据集 | [地址]() |  数据集  |
+| PeopleDairy2004数据集 | [地址]() |  数据集  |
+| GAIIC2022_task2数据集 | [地址](https://www.heywhale.com/home/competition/620b34ed28270b0017b823ad/content/2) |  2022全球人工智能技术创新大赛-商品标题实体识别数据集  |
+| WeiBo数据集 | [地址](https://github.com/hltcoe/golden-horse) |  社交媒体中文命名实体识别数据集  |
+| ECommerce数据集 | [地址](https://github.com/allanj/ner_incomplete_annotation) |  面向电商的命名实体识别数据集  |
+| FinanceSina数据集 | [地址](https://github.com/jiesutd/LatticeLSTM) |  新浪财经爬取中文命名实体识别数据集  |
+| BoSon数据集 | [地址](https://github.com/bosondata) |  玻森中文命名实体识别数据集  |
+| Resume数据集 | [地址](https://github.com/jiesutd/LatticeLSTM/tree/master/ResumeNER) |  中国股市上市公司高管的简历  |
+| Bank数据集 | [地址](https://www.heywhale.com/mw/dataset/617969ec768f3b0017862990/file) |  银行借贷数据数据集  |
+| FNED数据集 | [地址](https://www.datafountain.cn/competitions/561/datasets) |  高鲁棒性要求下的领域事件检测数据集  |
+
+清洗及格式转换后的数据，下载链接如下：[百度云](https://pan.baidu.com/s/19u7koJdlZiox-0fGQoZ2cA)
+<br>提取码：cfv8
 
 ## UpDate 01.06.2022
 * 从网上收集数据，将DIAC2019、CCKS2018_Task3、LCQMC、AFQMC、GAIIC2021_Task3、THS2021、CHIP2019、SOHU_2021、COVID19、PAWSX、XF2021、Chinese-MNLI、Chinese-SNLI、Chinese-STS-B、OCNLI、PKU Paraphrase Bank等16个数据集进行整理清洗，构建一个较完善的中文文本匹配数据集。
@@ -38,7 +71,7 @@
 ## UpDate 08.03.2021
 * 从网上收集数据，将DRCD、cmrc2018、chinese-squad、中医数据集、法研杯2019、莱斯杯机器阅读理解、疫情QA、WebQA、Dureader等9个数据集进行整理清洗，构建一个较完善的中文片段抽取式阅读理解数据集。
 * 数据集清洗时，仅进行了简单地规则清洗，并将格式进行了统一化。
-* 处理后数据集详细信息，见[数据集描述]()
+* 处理后数据集详细信息，见[数据集描述](https://zhuanlan.zhihu.com/p/395788175)
 
 | 数据   | 原始数据/项目地址   |  原始数据描述 |
 | ------  | ------ | ------  |
